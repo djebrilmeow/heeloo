@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.sstatic.net	TRUE	/	FALSE	1999999999	__cf_bm	ydIGMmev.V36Kn5yH2MhAeyMrw.r4xW.0TzOpIReens-1743038939-1.0.1.1-tuTOH0tHl5B.PKNROThhI7LbRvoA2SLkbgxxACcsYnkvzyKnSOQjSoCQNpOpra34NB2xrefuj_oCF48It3MXJkrMSUMZzaZ5_6hynKBHnts
+.sstatic.net	TRUE	/	FALSE	1999999999	_cfuvid	YFcCMlMnht8J5LBDf7p4YWmSiJ_MYb2A7YE5Y33yOeA-1743038939522-0.0.1.1-604800000
+www.maannews.net	TRUE	/	FALSE	1999999999	PHPSESSID	7c1a04nhehh7pq4llm5i2gvkcd
+
